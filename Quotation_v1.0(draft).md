@@ -66,18 +66,18 @@ Total project duration: **9 weeks**
 
 #### 4.1. Development Costs
 
-Requirement Analysis and Design: 5,000 THB
-Frontend Development: 20,000 THB
-Backend Development: 40,000 THB
-Testing and QA: 5,000 THB
-Deployment: 5,000 THB
-Documentation: 5,000 THB
+- Requirement Analysis and Design: 5,000 THB
+- Frontend Development: 20,000 THB
+- Backend Development: 40,000 THB
+- Testing and QA: 5,000 THB
+- Deployment: 5,000 THB
+- Documentation: 5,000 THB
 
 #### 4.2. Additional Costs
 
-Third-party services (e.g., APIs, libraries): [Amount] THB
-Hosting and domain (if applicable): [Amount] THB
-Maintenance (optional): [Amount] THB per month/year
+- Third-party services (e.g., APIs, libraries): [Amount] THB
+- Hosting and domain (if applicable): [Amount] THB
+- Maintenance (optional): [Amount] THB per month/year
 
 #### 4.3. Payment Terms
 
@@ -99,7 +99,7 @@ Client: UNILINKS
 
 Signature: _____________________________
 
-Date: _____________________________
+Date: __________________________________
 
 ---
 
@@ -116,3 +116,5 @@ If you have any questions or would like to discuss the proposal further, please 
 | Wai Lin Aung  | dev.wailin@gmail.com | +66 61 720 3991 |
 | Ye Yint Aung  |                      |                 |
 | Sai Hlaing Lu |                      |                 |
+
+---
