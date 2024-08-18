@@ -7,6 +7,10 @@ This Project Features Agreement is made with UNILINKS, effective from __________
 Project Title: [Project Name]
 Project Description: Provide a brief overview of the project, including its purpose, target audience, and overall goals.
 
+## Global Features
+
+- Automated Email Sending
+
 ## 2. Student Portal Features
 
 - Landing Page
@@ -37,6 +41,7 @@ Project Description: Provide a brief overview of the project, including its purp
 
 - Explore (Search/Filter Result Display)
     - Show result count message at the top.
+    - Show filters in badges
     - Result Card UI
         - Program title
         - Univeristy
@@ -125,7 +130,16 @@ Project Description: Provide a brief overview of the project, including its purp
     - Name
     - Email
     - Forgot Password
-    - Notification
+    - Receive Email Notification Toggle
+
+- Student Dashboard
+    - Notification Alert
+    - Upcoming Deadline
+    - Consultation Scheduling
+    - Application Status Overview
+    - Display Scheduled Consulations Sessions
+    - Registered Webinars
+    - Suggested Programs
 
 - Consultation Form
     - Name
@@ -224,6 +238,27 @@ Project Description: Provide a brief overview of the project, including its purp
         - Read Minutes
         - Read more
 
-## 3. Consultant Portal
+## 3. Student Agent Portal
+
+- Dashboard
+    - Calendar Integration (Not 3rd Party Calendar Integration)
+    - Notification Alerts
+    - Commission Earned
+    - Total Applications
+    - Accepted Applications
+    - Rejected Applications
+    - In-Progress Applications
+- Task management
+- Reporting Analysis
+- To Do List
+- Applicant management
+    - CRUD (Version History ???)
 
 ## 4. Admin Portal
+
+- User Management
+    - Change User Role
+- Applicant Management
+    - Change deal status (Booked, Consulted, Verify by Unilinks, Approved, Rejected, Payment Success, Drop Out)
+- University (CRUD) [Feature level Complex]
+- Programms (CRUD) [Feature level Complex]
