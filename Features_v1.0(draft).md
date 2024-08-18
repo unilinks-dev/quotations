@@ -10,16 +10,15 @@ Project Description: Provide a brief overview of the project, including its purp
 ## Global Features
 
 - Automated Email Sending
-
-## 2. Student Portal Features
-
-- Landing Page
-
 - Authentication
     - Login with Email/Password
     - Login with Google
     - SignUp with Email/Password
     - SignUp with Google
+
+## 2. Student Portal Features
+
+- Landing Page
 
 - Explore (Search/Filter)
     - Filter by Discipline
@@ -262,3 +261,6 @@ Project Description: Provide a brief overview of the project, including its purp
     - Change deal status (Booked, Consulted, Verify by Unilinks, Approved, Rejected, Payment Success, Drop Out)
 - University (CRUD) [Feature level Complex]
 - Programms (CRUD) [Feature level Complex]
+- Blogs (CRUD)
+- Webinars (CRUD)
+- Media Manager (CRUD)
